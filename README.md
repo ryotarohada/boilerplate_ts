@@ -1,2 +1,0 @@
-# boilerplate_ts
-TypeScriptをとりあえず書きたい時のテンプレ
